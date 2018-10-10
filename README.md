@@ -19,5 +19,7 @@ sklearn ,pandas, numpy,nltk,gensim
 
 **installation**
 type this following commands in your terminal
+
+
 pip install sklearn,pip install pandas,pip install numpy,pip install nltk,pip install gensim
 --
